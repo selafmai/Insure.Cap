@@ -12,8 +12,6 @@ import openai
 from getpass import getpass
 openai.api_key = getpass("...")
 
-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
-
 
 # OAI Vision Api Test
 
