@@ -1,26 +1,8 @@
 # **Build an AI Image Captioning App With GPT-4 Vision API in 3 Min**
 
-https://colab.research.google.com/drive/1nnr0XXwUos0AZV6lNhWuhufBXk0nHVr2#scrollTo=NOcytZ7u2WF-
-
-
-https://www.youtube.com/watch?v=-ETwGfjt5ow&list=LL&index=8
-
-🤖✨ Unlock the magic of AI with our tutorial on building an image captioning app using GPT-4 Vision API – perfect for spicing up your social media! 📸🚀
-
-🎥 MORE GPT-4V IDEAS:   
-
- • 7 GPT-4 Vision API SaaS Ideas (Start ...  
-
-COLAB Notebook: https://colab.research.google.com/dri...
 
 🚀Custom AI Solutions
 
-Intro - 0:00
-Reading Our First Image - 0:12
-Building Image Captioning App - 1:33
-Conclusion - 2:57
-
-About: Discover how to build a powerful AI image captioning app with the latest GPT-4 Vision API in this practical tutorial. Dive into the world of AI as we guide you through encoding images, crafting descriptive captions, generating relevant social media tags, and even setting up a user interface with Gradio. Whether you're an AI developer or a social media aficionado, this video unlocks the potential of GPT-4's image analysis for your projects. Don't miss out on the future of image captioning – tune in now!
 
 !pip install openai
 !pip install -q gradio
