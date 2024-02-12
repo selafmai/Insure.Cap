@@ -11,9 +11,9 @@ PAT = 'a90021e0adb7490c95e36f65f6d0974d'
 USER_ID = 'openai'
 APP_ID = 'chat-completion'
 # Change these to whatever model and text URL you want to use
-MODEL_ID = 'gpt-4-turbo'
+MODEL_ID = 'gpt-4-vision-preview'
 MODEL_VERSION_ID = '182136408b4b4002a920fd500839f2c8'
-RAW_TEXT = 'I hate your product'
+RAW_TEXT = 'I love your product'
 # To use a hosted text file, assign the url variable
 # TEXT_FILE_URL = 'https://samples.clarifai.com/negative_sentence_12.txt'
 # Or, to use a local text file, assign the url variable
