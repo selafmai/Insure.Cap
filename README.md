@@ -26,3 +26,8 @@ Our platform architecture streamlines LAMs {Large Action/Agentic Model} orchestr
 
 
 ![image](https://github.com/taqihaider7/GPT4-Vision-Hackathon/assets/157835927/87c39016-969f-4b1a-9ace-4b168641173c)
+
+
+The “Assistant” feature is a part of this application, and it allows you to interact with a personal finance bot that can give you advice on retirement planning. The “Thread” feature shows the topic and the messages of the conversation between you and the bot. The “Assistants API” feature lets you run certain commands or tasks using the bot, such as creating a message or using a code interpreter.
+![Insur Cap _process-flow](https://github.com/taqihaider7/GPT4-Vision-Hackathon/assets/157835927/1a1028d0-4f63-4f27-ad5b-32cb20941434)
+
