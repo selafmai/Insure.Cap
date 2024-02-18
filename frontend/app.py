@@ -16,7 +16,7 @@ APP_ID = 'chat-completion'
 # Change these to whatever model and text URL you want to use
 MODEL_ID = 'gpt-4-vision-alternative'
 MODEL_VERSION_ID = '12b67ac2b5894fb9af9c06ebf8dc02fb'
-RAW_TEXT = 'I love your product very much'
+
 
 channel = ClarifaiChannel.get_grpc_channel()
 stub = service_pb2_grpc.V2Stub(channel)
